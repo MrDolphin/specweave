@@ -1,6 +1,6 @@
 # DORA Metrics Report
 
-**Generated**: Oct 8, 2026 at 10:49:37 PM
+**Generated**: Oct 9, 2026 at 12:31:27 PM
 **Period**: Last 30 days
 
 ---
@@ -121,4 +121,4 @@
 ---
 
 _This report was generated automatically by SpecWeave DORA Metrics Calculator_
-_Last updated: Oct 8, 2026_
+_Last updated: Oct 9, 2026_
