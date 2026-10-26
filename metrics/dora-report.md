@@ -1,6 +1,6 @@
 # DORA Metrics Report
 
-**Generated**: Oct 25, 2026 at 8:20:48 PM
+**Generated**: Oct 26, 2026 at 12:11:52 PM
 **Period**: Last 30 days
 
 ---
@@ -9,7 +9,7 @@
 
 | Metric | Value | Tier | Status |
 |--------|-------|------|--------|
-| **Deployment Frequency** | 80 deploys/month | 🏆 Elite | ✅ |
+| **Deployment Frequency** | 59 deploys/month | 🏆 Elite | ✅ |
 | **Lead Time for Changes** | 0 hours | ⚪ N/A | ℹ️ |
 | **Change Failure Rate** | 0% | ⚪ N/A | ℹ️ |
 | **Mean Time to Recovery** | 0 minutes | ⚪ N/A | ℹ️ |
@@ -20,7 +20,7 @@
 
 ## 🚀 Deployment Frequency
 
-**Current**: 80 deploys/month (🏆 Elite)
+**Current**: 59 deploys/month (🏆 Elite)
 
 **Industry Benchmarks**:
 - 🏆 Elite: Multiple deploys per day (>365/year)
@@ -121,4 +121,4 @@
 ---
 
 _This report was generated automatically by SpecWeave DORA Metrics Calculator_
-_Last updated: Oct 25, 2026_
+_Last updated: Oct 26, 2026_
