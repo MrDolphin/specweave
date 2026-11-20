@@ -1,6 +1,6 @@
 # DORA Metrics Report
 
-**Generated**: Nov 20, 2026 at 12:15:12 AM
+**Generated**: Nov 20, 2026 at 2:50:56 PM
 **Period**: Last 30 days
 
 ---
